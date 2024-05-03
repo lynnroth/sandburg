@@ -1,0 +1,1 @@
+dotnet build src\Sandburg\Sandburg.Server\Sandburg.Server.csproj /property:GenerateFullPaths=true /consoleloggerparameters:NoSummary 
